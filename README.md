@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=3000&pause=5&multiline=true&repeat=false&width=435&lines=biggujo.+For+real" alt="Typing SVG" width="435" height="50"/></a>
 
 <div>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32">
+  <img align="left" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/webstorm.svg" width="32">
+<!--   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"> -->
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32">
