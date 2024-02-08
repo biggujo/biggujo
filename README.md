@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"> -->
 <!--   <img align="left" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" height="32"> -->
   <img align="left" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" height="32">
-  <img align="left" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ruby.svg" width="32">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32">
   <img align="left" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" height="32">
